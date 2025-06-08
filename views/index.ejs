@@ -9,9 +9,14 @@
   <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
 </head>
 <body>
-  <h1>test</h1>
-  <video id="webcam" autoplay muted></video>
-  <canvas id="canvas" width="640" height="480"></canvas>
+  <div class="container">
+    <div class="detection-area">
+      <video id="webcam" autoplay muted></video>
+      <canvas id="canvas" width="640" height="480" position="relative"></canvas>
+    </div>
+   <h2 class="dog">NO DOG DETECTED.</h2>
+
+  </div>
 
   <script src="/js/script.js"></script>
 </body>

@@ -12,12 +12,28 @@
 /*******************************************/
 
 canvas, video {
-  position: absolute; 
+  position: absolute;
   top: 0; 
   left: 0; 
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
 
+.detection-area {
+  width: 640px; 
+  height: 480px;
+  position: relative;
+
+}
+
+.dog {
+  background-color: red;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/

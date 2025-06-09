@@ -3,7 +3,7 @@ It does exactly what it sounds like! It detects dogs.
 
 <!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 
-<img src="/images/dog-detector.gif" width="100"
+<img src="/images/dog-detector.gif" width="100">
 
 ## How It's Made:
 

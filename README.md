@@ -5,7 +5,7 @@ It does exactly what it sounds like! It detects dogs.
 
 I will add a video here and deploy it live soon
 
-<!-- ![alt tag](http://placecorgi.com/1200/650) -->
+![dog being detected](/images/dog-detector.gif)
 
 ## How It's Made:
 

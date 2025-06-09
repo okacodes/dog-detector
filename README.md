@@ -3,8 +3,6 @@ It does exactly what it sounds like! It detects dogs.
 
 <!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
 
-I will add a video here and deploy it live soon
-
 ![dog being detected](/images/dog-detector.gif)
 
 ## How It's Made:

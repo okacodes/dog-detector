@@ -2,6 +2,7 @@
 It does exactly what it sounds like! It detects dogs.
 
 <!-- **Link to project:** http://recruiters-love-seeing-live-demos.com/ -->
+<!-- Come back and make this live -->
 
 <p align="center">
   <img src="/images/dog-detector.gif" width="250">
